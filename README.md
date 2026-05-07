@@ -1,2 +1,2 @@
-# python-hackers
+# python
 fun repo
